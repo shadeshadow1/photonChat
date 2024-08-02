@@ -1,0 +1,5 @@
+사용하기 전에 무조건 pull 해주기
+
+add, commit, push 
+
+톡방에 commit 남기기
